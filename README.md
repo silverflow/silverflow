@@ -4,7 +4,6 @@
 - 최근 카프카에 관심이 있고 공부하는 중
 
 ### Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverflow&layout=compact)](https://github.com/silverflow)
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
